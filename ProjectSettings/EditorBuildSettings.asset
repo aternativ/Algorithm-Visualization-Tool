@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Grafuri.unity
+    guid: 02fb18868178ff44c9d10daf90af1a79
+  - enabled: 1
+    path: Assets/Scenes/DFS.unity
+    guid: af49931ab497a32439bc997aecdcb742
+  - enabled: 1
+    path: Assets/Scenes/BFS.unity
+    guid: e55a812f3e424724f993e3a3ece0dec3
+  - enabled: 1
+    path: Assets/Scenes/Sortare.unity
+    guid: 66a861ce6113faf4d96c1b3048cba914
+  - enabled: 1
+    path: Assets/Scenes/SELECTSORT.unity
+    guid: 33a35caa083f7654086f1964dc22101c
+  - enabled: 1
+    path: Assets/Scenes/BUBBLESORT.unity
+    guid: b51c36840c125db41b7c3fd7f44c4649
+  m_configObjects: {}
